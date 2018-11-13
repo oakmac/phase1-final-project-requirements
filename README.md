@@ -3,10 +3,10 @@
 This is the final project for "Phase 1" of the Flex course for [DigitalCrafts]
 Houston.
 
-You must complete this project in accordance with the requirements laid out
-below in order to fulfill Texas state requirements for credit for the course. If
-you have any questions or concerns about the requirements, please see an
-instructor.
+> NOTE: You must complete this project in accordance with the requirements laid out
+  below in order to fulfill Texas state requirements for credit for the course. If
+  you have any questions or concerns about the requirements, please see an
+  instructor.
 
 [DigitalCrafts]:https://www.digitalcrafts.com/
 
@@ -18,7 +18,7 @@ libraries and APIs to build a useful front-end web application.
 You will be using the front-end skills you have developed throughout Phase 1:
 HTML, CSS, JavaScript, AJAX, Bootstrap, APIs, etc.
 
-Each team will present their project on **Saturday, December 1st**.
+Each team will present their project on **Tuesday, December 4th**.
 
 > As a reminder, there will be no class on Nov 22 and 24th for Thanksgiving Break.
 
@@ -64,16 +64,55 @@ Your application **must**:
   - You must run at least one test in your Travis CI build (hint: test for [StandardJS])
   - Put a build status badge in your `README.md` that links to your latest build
 
+- Code must follow some organization scheme.
+  - Everything cannot be in one super long file.
+  - Break different parts of the code into different files / modules.
+  - No "spaghetti code".
+  - Bonus / optional: consider using a build system with [npm scripts] or [webpack]
+
 [Markdown]:https://guides.github.com/features/mastering-markdown/
 [StandardJS]:https://standardjs.com/
+[npm scripts]:https://deliciousbrains.com/npm-build-script/
+[webpack]:https://webpack.js.org/
 
 ## Workflow Requirements
 
-TODO: write me
+- Teams will be groups of 3-5 students and assigned by instructors.
 
-## Suggestions / Tips
+- Create one GitHub repo and add all group members as collaborators.
 
-TODO: write me
+- Collaborate using Pull Requests (PRs):
+  - No one should commit to the master branch directly.
+  - Every PR should be reviewed and approved by at least one team member (not the person who originated the PR).
+  - PRs should not be merged by the person who opened it (no self-merging).
+  - See below for [suggested PR rejection criteria](#suggested-pr-rejection-criteria)
+
+- Project features and bugs must be tracked using a [scrum]-like system:
+  - Every PR should be associated with a GitHub Issue (or similar).
+  - Consider using a tool like [GitHub Project Board] or [Trello].
+  - Every class day teams will have a "stand up meeting" with a TA or Instructor.
+
+[scrum]:https://en.wikipedia.org/wiki/Scrum_(software_development)
+[GitHub Project Board]:https://help.github.com/articles/about-project-boards/
+[Trello]:https://trello.com/
+
+## Suggested PR Rejection Criteria
+
+It's ok to reject a PR or have a PR rejected - that is what the PR process is
+for! Remember if your PR is rejected that doesn't mean you are a bad person and
+stink at life. It just means that your teammate(s) see something that could be
+improved. Think of the PR review process as a form of team communication that is
+closely linked with the code being submitted.
+
+Any of the following are valid reasons to reject a PR:
+
+- Breaks the build (Travis CI breaks)
+- Does not fulfill feature
+- Breaks other feature
+- Does not follow team coding style / standards
+- Too much to review / large code diff (ie: should be broken up into smaller PRs)
+- Code in the PR does not match up with commit message
+- Commit message is vague
 
 --------------------------------------------------------------------------------
 
