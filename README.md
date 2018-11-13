@@ -68,11 +68,12 @@ Your application **must**:
   - Everything cannot be in one super long file.
   - Break different parts of the code into different files / modules.
   - No "spaghetti code".
-  - Bonus / optional: consider using a build system with [npm scripts] or [webpack]
+  - Bonus / optional: consider using a build system with [npm scripts], [browserify], or [webpack]
 
 [Markdown]:https://guides.github.com/features/mastering-markdown/
 [StandardJS]:https://standardjs.com/
 [npm scripts]:https://deliciousbrains.com/npm-build-script/
+[browserify]:http://browserify.org/
 [webpack]:https://webpack.js.org/
 
 ## Workflow Requirements
@@ -113,6 +114,25 @@ Any of the following are valid reasons to reject a PR:
 - Too much to review / large code diff (ie: should be broken up into smaller PRs)
 - Code in the PR does not match up with commit message
 - Commit message is vague
+
+## Learning Objectives
+
+By the end of Phase 1 you should have most of the skills necessary to understand
+much of the world of web development (HTML, CSS, JavaScript). The intent with
+these requirements is for each student in the group to use these skills to learn
+something new and use it in a "real world" way. Searching for external resources
+and being able to understand and apply documentation is a big part of software
+development. Whether it is an API, a new JavaScript library, deployment,
+testing, etc. Go learn something new and put those web development skills to
+work!
+
+Another goal of this project is polish / thoroughness. A thorough `README.md`,
+testing via Travis CI, deploying to a public web server, thoughtful commit
+messages, following a PR review process, good code organization, etc are all
+signals of quality software development. The end result of this project should
+be a portfolio piece that you are excited to put on your resume and share with
+friends and family: "Hey - look at this cool thing I built!" Look for
+opportunities to polish and show the world what you can do!
 
 --------------------------------------------------------------------------------
 
