@@ -18,9 +18,9 @@ libraries and APIs to build a useful front-end web application.
 You will be using the front-end skills you have developed throughout Phase 1:
 HTML, CSS, JavaScript, AJAX, Bootstrap, APIs, etc.
 
-Each team will present their project on **Tuesday, December 4th**.
+Each team will present their project in class on **Tuesday, December 4th**.
 
-> As a reminder, there will be no class on Nov 22 and 24th for Thanksgiving Break.
+> As a reminder, there will be no class on Thursday, Nov 22nd or Saturday, Nov 24th for Thanksgiving Break.
 
 ## Technical Requirements
 
@@ -102,8 +102,8 @@ Your application **must**:
 It's ok to reject a PR or have a PR rejected - that is what the PR process is
 for! Remember if your PR is rejected that doesn't mean you are a bad person and
 stink at life. It just means that your teammate(s) see something that could be
-improved. Think of the PR review process as a form of team communication that is
-closely linked with the code being submitted.
+improved. The PR process is more about sharing knowledge than "you did something
+wrong".
 
 Any of the following are valid reasons to reject a PR:
 
