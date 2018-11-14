@@ -22,10 +22,10 @@
 - [PushJS](https://pushjs.org/) - push notifications on the web
 - [TrackingJS](https://trackingjs.com/docs.html#introduction) - computer vision library for tracking objects
 - [Tutorial showing you how to detect if the user is offline](https://mxb.at/blog/youre-offline/)
-- [Moment.js](https://momentjs.com/)
-- [Marked](https://marked.js.org/)
-- [jQuery UI](https://jqueryui.com/)
-- [chessboard.js](http://chessboardjs.com/)
+- [Moment.js](https://momentjs.com/) - great library for handling dates and times
+- [Marked](https://marked.js.org/) - convert markdown to HTML (useful for user-entered comments)
+- [jQuery UI](https://jqueryui.com/) - UI widgets like popovers, autocomplete, datepicker, progress bar, etc
+- [chessboard.js](http://chessboardjs.com/) - the world's best JavaScript chessboard widget ;)
 
 ## Other Lists of JavaScript of Tools and Libraries
 
