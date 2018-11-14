@@ -18,7 +18,6 @@
 - [ThreeJS](https://threejs.org/) - 3D
 - [Augmented Reality in your browser](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf) (tutorial)
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/) - use Google Maps in your page
-- [MomentJS](https://momentjs.com/) - work with time and timestamps
 - [VelocityJS](http://velocityjs.org/) - high performance animation library
 - [PushJS](https://pushjs.org/) - push notifications on the web
 - [TrackingJS](https://trackingjs.com/docs.html#introduction) - computer vision library for tracking objects
