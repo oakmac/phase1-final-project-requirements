@@ -31,6 +31,7 @@ Your application **must**:
   - [Marked](https://marked.js.org/)
   - [jQuery UI](https://jqueryui.com/)
   - [chessboard.js](http://chessboardjs.com/)
+  - [Additional List](./additional-libraries.md)
 
 - Use a CSS framework. Examples:
   - [Bootstrap](http://getbootstrap.com/)
