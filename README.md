@@ -18,9 +18,9 @@ libraries and APIs to build a useful front-end web application.
 You will be using the front-end skills you have developed throughout Phase 1:
 HTML, CSS, JavaScript, AJAX, Bootstrap, APIs, etc.
 
-Each team will present their project in class on **Tuesday, December 4th**.
+Each team will present their project in class on **Thursday, September 5th**.
 
-> As a reminder, there will be no class on Thursday, Nov 22nd or Saturday, Nov 24th for Thanksgiving Break.
+> As a reminder, there will be no class on Saturday, Aug 31st for Labor Day weekend.
 
 ## Technical Requirements
 
